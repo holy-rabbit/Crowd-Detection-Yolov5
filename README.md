@@ -12,6 +12,8 @@ Vishal Khashimpure
 
 Abhishek Jain
 
+Monica Gowda
+
 The aim of the project was to design and develop a model capable of detecting and analyzing crowd density using advanced computer vision techniques.
 
 
