@@ -8,8 +8,6 @@ Gyanaranjan Mahanta
 
 Sampreet Patil
 
-Monica Gowda
-
 Vishal Khashimpure
 
 Abhishek Jain
@@ -54,8 +52,6 @@ This project was developed collaboratively by:
 Gyanaranjan Mahanta
 
 Sampreet Patil
-
-Monica Gowda
 
 Vishal Khashimpure
 
